@@ -523,7 +523,7 @@ table {
     .cont-btn-whatsapp{
         position: fixed;
         bottom: 80px;
-        left:65%;
+        left:75%;
         z-index: 200;
     }
 }
