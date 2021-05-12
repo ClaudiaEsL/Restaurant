@@ -1,7 +1,7 @@
 .cont-btn-whatsapp{
     position: fixed;
-	bottom: 40px;
-	right: 40px;
+	bottom: 80px;
+	left: 88%;
     z-index: 200;
 }
 body {
@@ -476,6 +476,12 @@ table {
     .details-text p {
         line-height: 16.6px;
     }
+    .cont-btn-whatsapp{
+        position: fixed;
+        bottom: 80px;
+        left:80%;
+        z-index: 200;
+    }
 }
 @media (min-width: 451px) and (max-width: 767px) {
     .details-text {
@@ -483,8 +489,10 @@ table {
         border-bottom: 2px solid #A87F41;
     }
     .cont-btn-whatsapp{
-        bottom: 20px;
-		right: 20px;
+        position: fixed;
+        bottom: 80px;
+        left: 80%;
+        z-index: 200;
     }
 }
 @media (min-width: 20px) and (max-width: 450px) {
@@ -512,5 +520,10 @@ table {
     }
     .sidenav {padding-top: 15px;}
     .sidenav a {font-size: 18px;}
-    
+    .cont-btn-whatsapp{
+        position: fixed;
+        bottom: 80px;
+        left:65%;
+        z-index: 200;
+    }
 }
