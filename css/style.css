@@ -1,8 +1,9 @@
-.btn-whatsapp{
+.cont-btn-whatsapp{
+    width:100%;
+    text-align: end;
+    padding:0 50px 50px 0;
     position:fixed;
-    bottom: 0;
-    left:90%;
-    padding: 0 50px 50px 0;
+    bottom:0;
     z-index: 200;
 }
 body {
@@ -484,7 +485,7 @@ table {
         border-bottom: 2px solid #A87F41;
     }
     .btn-whatsapp{
-        margin: 0 25px 30px 0;
+        left:80%;
     }
 }
 @media (min-width: 20px) and (max-width: 450px) {
