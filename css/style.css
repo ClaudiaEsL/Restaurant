@@ -485,7 +485,7 @@ table {
         border-bottom: 2px solid #A87F41;
     }
     .btn-whatsapp{
-        left:80%;
+        padding:0 50px 70px 0;
     }
 }
 @media (min-width: 20px) and (max-width: 450px) {
